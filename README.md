@@ -1,4 +1,4 @@
-# 🇧🇩 Bangladesh Power Grid — Electricity Demand Forecasting
+# Bangladesh Power Grid — Electricity Demand Forecasting
 ### PGCB Hourly Generation & Demand Dataset | April 2015 – June 2025
 
 ---
@@ -462,7 +462,7 @@ bangladesh-power-demand-forecasting/
 **Aminu Abiola Friday**
 Operations Analyst | Data Science Practitioner
 📍 Lagos, Nigeria
-🎓 Diploma in Data Science — Aptech Learning (2026)
+🎓 Diploma in Data Science — Aptech Learning
 
 ---
 
